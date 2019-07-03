@@ -1,0 +1,5 @@
+# frappe_docker .dockerignore file
+
+conf/*
+.gitignore
+docker-*.yml
